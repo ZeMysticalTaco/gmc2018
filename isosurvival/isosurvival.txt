@@ -1,0 +1,5 @@
+"isosurvival"
+{
+	"title"		"Iso Survival"
+	"isosurvival"		""
+}
